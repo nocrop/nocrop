@@ -1,8 +1,4 @@
 # Hello, [visitors]!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center">
-	<br>
-	<img src="https://giphy.com/gifs/rMeyHbcQgiyAXrZsua" width="200" height="200">
-</div>
+![]([https://github.com/nocrop/nocrop/blob/main/Modern%20Purple%20Neon%20Gamer%20Twitch%20Banner%20.gif])
 
-https://giphy.com/gifs/INmpmimWAUVwcBlkEI
