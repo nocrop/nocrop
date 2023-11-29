@@ -11,3 +11,16 @@ Hello! It’s-a me, Mapachito  <img src="https://media.giphy.com/media/hvRJCLFzc
 <h1>"Si lo puedes imaginar lo puedes programar."<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1> 
 <p align="center">Te invito a unirte al team y trabajar juntos por un mañana mejor </p>
  </details>
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
