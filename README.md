@@ -12,15 +12,54 @@ Hello! It’s-a me, Mapachito  <img src="https://media.giphy.com/media/hvRJCLFzc
 <p align="center">Te invito a unirte al team y trabajar juntos por un mañana mejor </p>
  </details>
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <p style="display: inline-block;" align="center">
+<p align="center"> Some of the tools that have a little piece of my heart. </p>
   <kbd>
-    <kbd>Front-end</kbd>
+    <kbd>Mockups creator</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  </kbd>
+    
+  <kbd>
+    <kbd>IDE </kbd>
+    <br>
+    <br>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
+    <img width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-shadow-tal-revivo.png" alt="external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-shadow-tal-revivo" /> 
+    <img width="40px" src="https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png" />
+  </kbd>
+
+  
+   <kbd>
+ <kbd>GATA</kbd>
+    <br>
+    <br>
+    <img width="40px" src="https://img.icons8.com/?size=64&id=dSnah6CSCxRG&format=png" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
+    <img width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-shadow-tal-revivo.png" alt="external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-shadow-tal-revivo" /> 
+    <img width="40px" src="https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png" />
+  </kbd>
+
+   <kbd>
+ <kbd>FRAMEWORKS</kbd>
+    <br>
+    <br>
+    <img width="40px" src="https://img.icons8.com/?size=64&id=dSnah6CSCxRG&format=png" /> 
+    <img width="40px" src="https://img.icons8.com/?size=64&id=t4YbEbA834uH&format=png" /> 
+    <img width="40px" src="https://img.icons8.com/?size=64&id=tbleCw0ch6QC&format=png" /> 
+    <img width="40px" src="https://img.icons8.com/?size=64&id=O6SWwpPIM0GB&format=png" />
+    <img width="40px" src="https://img.icons8.com/?size=24&id=MOXQrrrUbTVA&format=png" />
+    <img width="40px" src="https://img.icons8.com/?size=64&id=HeYO04zXqCbr&format=png" />
+    <img width="40px" src="https://img.icons8.com/?size=48&id=WRRjYsSsuhp1&format=png" />
+    <img width="40px" src="https://img.icons8.com/?size=96&id=dXPwVQPCXRrV&format=png&color=FFFFFF" />
+    <img width="40px" src="https://img.icons8.com/?size=96&id=bpip0gGiBLT1&format=png" />
+    <img width="40px" src="https://img.icons8.com/?size=96&id=_BTyk4vBumjx&format=png" />
+    <img width="40px" src="https://img.icons8.com/?size=96&id=QF5zpaaq4QZf&format=png" />
+    <img width="40px" src="https://raw.githubusercontent.com/fastai/logos/main/fastai_small.png" />
+
   </kbd>
